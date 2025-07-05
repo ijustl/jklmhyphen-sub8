@@ -123061,6 +123061,13 @@ local wordlist = {
     "ZYMOLOGIES",
     "ZYMOLOGIST",
     "ZYMOMETERS",
+    "YAK",
+    "YAKS",
+    "KAYAK",
+    "KAYAKS",
+    "KAYAKING",
+    "TERIYAKI",
+    "TERIYAKIS",
 }
 
 return wordlist
